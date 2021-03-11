@@ -46,13 +46,26 @@ p1_Build My World                   // Build My World Project
 </pre>
 
 ## 3. Instructions <a name="Instructions"></a>
-```python
 1. Create a build directory and compile the code
-
-$ cd /home/workspace/myrobot
+```python
+$ cd /home/workspace/p1_Build My World
 $ mkdir build
 $ cd build/
 $ cmake ../
 $ make # You might get errors if your system is not up to date!
-$ export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/home/workspace/myrobot/build
+$ export GAZEBO_PLUGIN_PATH=/home/workspace/p1_Build My World:${PWD}
 ```
+
+2. Launch the world file in Gazebo to load both the world and the plugi
+```python
+$ cd /home/workspace/p1_Build My World/world
+$ gazebo robo_battleground
+```
+
+3. Visualize the output
+<table>
+	<tr>
+    	<td><img src="./imgs/myworld.png" /></td>
+    	<td><img src="./imgs/output.png" /></td>
+	</tr>
+</table>  
