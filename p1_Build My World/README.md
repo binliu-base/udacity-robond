@@ -13,7 +13,9 @@ Udacity Robotics Software Engineer Nanodegree - Project 1 - Build My World
 ## 1. Project Overview <a name="ProjectOverview"></a>
 Goal of the project is design a Gazebo World environment by including multiple models and use it as base for all the upcoming projects. Inspired by this competition, I designed a robot battleground scenario.
 
-
-<center class="half">
-    <img src="./imgs/rm_battleground.2.png" width="200"/><img src="./imgs/rm_battleground.1.png" width="200"/>
-</center>
+<table>
+	<tr>
+    	<td><img src="./imgs/rm_battleground.2.png" width="400"/></td>
+    	<td><img src="./imgs/rm_battleground.1.png" width="400"/></td>
+	</tr>
+</table>
