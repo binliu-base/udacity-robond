@@ -15,5 +15,5 @@ Goal of the project is design a Gazebo World environment by including multiple m
 
 
 <center class="half">
-    <img src="./imgs/rm_battleground.2.png"/><img src="./imgs/rm_battleground.1.png" />
+    <img src="./imgs/rm_battleground.2.png" width="200"/><img src="./imgs/rm_battleground.1.png" width="200"/>
 </center>
