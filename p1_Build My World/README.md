@@ -66,6 +66,10 @@ $ gazebo robo_battleground
 <table>
 	<tr>
     	<td><img src="./imgs/myworld.png" /></td>
+	</tr>
+</table>  
+<table>
+	<tr>
     	<td><img src="./imgs/output.png" /></td>
 	</tr>
 </table>  
