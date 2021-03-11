@@ -6,8 +6,7 @@ Udacity Robotics Software Engineer Nanodegree - Project 1 - Build My World
 
 1. [Project Overview](#ProjectOverview)
 2. [File Description](#FileDescription)
-3. [Requirements](#Requirements)
-4. [Instructions](#Instructions)
+3. [Instructions](#Instructions)
 
 ## 1. Project Overview <a name="ProjectOverview"></a>
 Goal of the project is design a Gazebo World environment by including multiple models and use it as base for all the upcoming projects. Inspired by this [robot competition](https://www.robomaster.com/zh-CN/robo/youth/overview), I designed a robot battleground scenario.Below is the prototype of the robot battleground model
@@ -45,3 +44,15 @@ p1_Build My World                   // Build My World Project
             robo_battleground
 
 </pre>
+
+## 3. Instructions <a name="Instructions"></a>
+```python
+1. Create a build directory and compile the code
+
+$ cd /home/workspace/myrobot
+$ mkdir build
+$ cd build/
+$ cmake ../
+$ make # You might get errors if your system is not up to date!
+$ export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/home/workspace/myrobot/build
+```
