@@ -21,7 +21,7 @@
         <material>
           <script>
             <uri>file://media/materials/scripts/gazebo.material</uri>
-            <name>Gazebo/CeilingTiled</name>
+            <name>Gazebo/CoM</name>
           </script>
           <ambient>1 1 1 1</ambient>
         </material>
@@ -50,7 +50,7 @@
         <material>
           <script>
             <uri>file://media/materials/scripts/gazebo.material</uri>
-            <name>Gazebo/CeilingTiled</name>
+            <name>Gazebo/CoM</name>
           </script>
           <ambient>1 1 1 1</ambient>
         </material>
@@ -72,7 +72,7 @@
         <material>
           <script>
             <uri>file://media/materials/scripts/gazebo.material</uri>
-            <name>Gazebo/CeilingTiled</name>
+            <name>Gazebo/CoM</name>
           </script>
           <ambient>1 1 1 1</ambient>
         </material>
@@ -98,7 +98,7 @@
         <material>
           <script>
             <uri>file://media/materials/scripts/gazebo.material</uri>
-            <name>Gazebo/CeilingTiled</name>
+            <name>Gazebo/CoM</name>
           </script>
           <ambient>1 1 1 1</ambient>
         </material>
@@ -192,7 +192,7 @@
         <material>
           <script>
             <uri>file://media/materials/scripts/gazebo.material</uri>
-            <name>Gazebo/CeilingTiled</name>
+            <name>Gazebo/CoM</name>
           </script>
           <ambient>0.435294 0.796078 0.67451 1</ambient>
         </material>
@@ -221,7 +221,7 @@
         <material>
           <script>
             <uri>file://media/materials/scripts/gazebo.material</uri>
-            <name>Gazebo/CeilingTiled</name>
+            <name>Gazebo/CoM</name>
           </script>
           <ambient>0.435294 0.796078 0.67451 1</ambient>
         </material>
@@ -308,7 +308,7 @@
         <material>
           <script>
             <uri>file://media/materials/scripts/gazebo.material</uri>
-            <name>Gazebo/CeilingTiled</name>
+            <name>Gazebo/CoM</name>
           </script>
           <ambient>0.435294 0.796078 0.67451 1</ambient>
         </material>
@@ -337,7 +337,7 @@
         <material>
           <script>
             <uri>file://media/materials/scripts/gazebo.material</uri>
-            <name>Gazebo/CeilingTiled</name>
+            <name>Gazebo/CoM</name>
           </script>
           <ambient>0.435294 0.796078 0.67451 1</ambient>
         </material>
@@ -395,7 +395,7 @@
         <material>
           <script>
             <uri>file://media/materials/scripts/gazebo.material</uri>
-            <name>Gazebo/CeilingTiled</name>
+            <name>Gazebo/CoM</name>
           </script>
           <ambient>1 1 1 1</ambient>
         </material>
@@ -424,7 +424,7 @@
         <material>
           <script>
             <uri>file://media/materials/scripts/gazebo.material</uri>
-            <name>Gazebo/CeilingTiled</name>
+            <name>Gazebo/CoM</name>
           </script>
           <ambient>0.435294 0.796078 0.67451 1</ambient>
         </material>

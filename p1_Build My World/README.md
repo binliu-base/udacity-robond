@@ -41,7 +41,7 @@ p1_Build My World                   // Build My World Project
     │      hello.cpp
     │
     └─world                         // Gazebo main World containing models 
-            robo_battleground
+            robo.world
 
 </pre>
 
